@@ -1,0 +1,630 @@
+[
+  {
+    "_id": "65e1f001a1b2c3d4e5f60001",
+    "senderName": "Elena Rostova",
+    "senderEmail": "elena.rostova@acmecorp.com",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Q3 Product Strategy & AI Integration Roadmap - Action Required",
+    "content": "Hi Alex,\n\nFollowing our executive leadership review yesterday, I have finalized the Q3 Strategic Roadmap for the AI Assistant integration.\n\nPlease review Section 4 regarding API throughput and latency benchmarks. We need your team's feedback by this Friday at 5:00 PM EST before the board presentation next Monday.\n\nCould you also coordinate with Marcus on the frontend deliverable schedule? We want to ensure all core user workflows are complete ahead of the September 15th staging deployment.\n\nThanks,\nElena Rostova\nVP of Product Engineering\nAcme Corp",
+    "date": "2026-10-03T06:05:22.648Z",
+    "isRead": true,
+    "isImportant": true,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "Strategy",
+      "Roadmap",
+      "Executive"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "Hi Alex,  Following our executive leadership review yesterday, I have finalized the Q3 Strategic Roadmap for the AI Assistant integration. Please review Section 4 regarding API throughput and latency benchmarks.",
+      "mainTopic": "Project Management",
+      "keyPoints": [
+        "Sender: Elena Rostova",
+        "Timeline / Deadlines mentioned: September 15th, this Friday, next Monday",
+        "Subject focus: Q3 Product Strategy & AI Integration Roadmap - Action Required",
+        "Context: Please review Section 4 regarding API throughput and latency benchmarks."
+      ],
+      "actionItems": [
+        "Please review Section 4 regarding API throughput and latency benchmarks.",
+        "We need your team's feedback by this Friday at 5:00 PM EST before the board presentation next Monday."
+      ],
+      "deadlines": [
+        "September 15th",
+        "this Friday",
+        "next Monday"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.790Z"
+    },
+    "updatedAt": "2026-10-03T07:17:34.749Z"
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60002",
+    "senderName": "IT Security Desk",
+    "senderEmail": "support@security-corporate-auth.net",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "CRITICAL ALERT: Your Microsoft 365 Password Expires in 24 Hours - Verify Immediately",
+    "content": "Urgent Security Notification,\n\nYour corporate Microsoft 365 account credentials will expire within 24 hours. Failure to verify your password will result in immediate account termination and loss of all mailbox data.\n\nUnauthorized login detected from IP 185.220.101.5 (Kyiv, Ukraine).\n\nClick here to verify your identity and restore access: http://login-verify-m365-auth.xyz/portal/verify?id=98321\n\nPlease enter your current username and password on the portal to confirm your credentials.\n\nCorporate Security Incident Response Team",
+    "date": "2026-10-03T05:05:22.648Z",
+    "isRead": false,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "Security Warning",
+      "High Risk"
+    ],
+    "spamCategory": "PHISHING",
+    "spamRisk": "High Risk",
+    "spamScore": 99,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (support@security-corporate-auth.net)",
+      "Demands immediate identity or credential verification",
+      "False security alarm about unauthorized activity",
+      "Deceptive call-to-action redirecting to credential harvesting page",
+      "Urgent password expiration threat",
+      "Artificial high-urgency deadline designed to bypass user caution",
+      "Contains unverified or obfuscated web link(s): http://login-verify-m365-auth.xyz/portal/verify?id=98321"
+    ],
+    "aiAnalysis": {
+      "summary": "Urgent Security Notification,  Your corporate Microsoft 365 account credentials will expire within 24 hours. Failure to verify your password will result in immediate account termination and loss of all mailbox data.",
+      "mainTopic": "Security & Infrastructure",
+      "keyPoints": [
+        "Sender: IT Security Desk",
+        "Subject focus: CRITICAL ALERT: Your Microsoft 365 Password Expires in 24 Hours - Verify Immediately",
+        "Context: Failure to verify your password will result in immediate account termination and loss of all mailbox data."
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [],
+      "sentiment": "High Urgency",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60003",
+    "senderName": "David Chen",
+    "senderEmail": "david.chen@designstudio.co",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Updated UI Design Tokens and Figma Prototype for Email Dashboard",
+    "content": "Hey Alex,\n\nI just published the updated Figma design components for the dark mode color palette and glassmorphism cards.\n\nYou can inspect the design tokens in the shared Figma workspace. I made sure contrast ratios meet WCAG AAA standards for readability.\n\nLet me know if you want to hop on a quick 10-minute sync tomorrow afternoon to review the interactive animations.\n\nBest,\nDavid Chen\nSenior UX Designer",
+    "date": "2026-10-03T03:40:22.648Z",
+    "isRead": true,
+    "isImportant": false,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "Design",
+      "Figma",
+      "UI/UX"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "Hey Alex,  I just published the updated Figma design components for the dark mode color palette and glassmorphism cards. You can inspect the design tokens in the shared Figma workspace.",
+      "mainTopic": "General Correspondence",
+      "keyPoints": [
+        "Sender: David Chen",
+        "Timeline / Deadlines mentioned: tomorrow",
+        "Subject focus: Updated UI Design Tokens and Figma Prototype for Email Dashboard",
+        "Context: You can inspect the design tokens in the shared Figma workspace."
+      ],
+      "actionItems": [
+        "Let me know if you want to hop on a quick 10-minute sync tomorrow afternoon to review the interactive animations."
+      ],
+      "deadlines": [
+        "tomorrow"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60004",
+    "senderName": "Cloud Infrastructure Billing",
+    "senderEmail": "billing@aws-enterprise.amazon.com",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "AWS Enterprise Invoice #INV-2026-8842 - Payment Due August 30",
+    "content": "Dear Customer,\n\nYour monthly cloud compute and database cluster invoice for August 2026 is now available.\n\nInvoice Number: INV-2026-8842\nTotal Amount: $2,480.50 USD\nPayment Due Date: August 30, 2026\nPayment Method: Autopay on file\n\nYou can review the detailed PDF breakdown and usage report in your AWS Billing Console.\n\nThank you for choosing Amazon Web Services.",
+    "date": "2026-10-03T00:40:22.648Z",
+    "isRead": true,
+    "isImportant": true,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "Finance",
+      "Invoice",
+      "Cloud"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "Dear Customer,  Your monthly cloud compute and database cluster invoice for August 2026 is now available. Invoice Number: INV-2026-8842 Total Amount: $2,480.50 USD Payment Due Date: August 30, 2026 Payment Method: Autopay on file  You can review the detailed PDF breakdown and usage report in your AWS Billing Console.",
+      "mainTopic": "Finance & Invoicing",
+      "keyPoints": [
+        "Sender: Cloud Infrastructure Billing",
+        "Timeline / Deadlines mentioned: August 30, 2026",
+        "Subject focus: AWS Enterprise Invoice #INV-2026-8842 - Payment Due August 30",
+        "Context: Invoice Number: INV-2026-8842 Total Amount: $2,480.50 USD Payment Due Date: August 30, 2026 Payment Method: Autopay on file  You can review the detailed PDF breakdown and usage report in your AWS Billing Console."
+      ],
+      "actionItems": [
+        "Verify invoice figures and route to finance for payment processing."
+      ],
+      "deadlines": [
+        "August 30, 2026"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60005",
+    "senderName": "MetaMask Security Notification",
+    "senderEmail": "alert@wallet-connect-auth.site",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Action Required: Your Web3 Wallet KYC Verification is Incomplete",
+    "content": "Dear Web3 User,\n\nDue to updated anti-money laundering regulations, your crypto wallet has been temporarily restricted. You have 12 hours to verify your wallet seed phrase and identity.\n\nIf you do not complete verification immediately, your funds will be permanently frozen on the blockchain.\n\nVerify your seed phrase here: https://wallet-verify-kyc-portal.xyz/restore\n\nMetaMask Compliance Protocol",
+    "date": "2026-10-02T21:40:22.648Z",
+    "isRead": false,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "Phishing",
+      "Crypto Scam"
+    ],
+    "spamCategory": "PHISHING",
+    "spamRisk": "High Risk",
+    "spamScore": 99,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (alert@wallet-connect-auth.site)",
+      "Demands immediate identity or credential verification",
+      "Cryptocurrency or wallet seed phrase references",
+      "Contains unverified or obfuscated web link(s): https://wallet-verify-kyc-portal.xyz/restore"
+    ],
+    "aiAnalysis": {
+      "summary": "Dear Web3 User,  Due to updated anti-money laundering regulations, your crypto wallet has been temporarily restricted. You have 12 hours to verify your wallet seed phrase and identity.",
+      "mainTopic": "General Correspondence",
+      "keyPoints": [
+        "Sender: MetaMask Security Notification",
+        "Subject focus: Action Required: Your Web3 Wallet KYC Verification is Incomplete",
+        "Context: You have 12 hours to verify your wallet seed phrase and identity."
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60006",
+    "senderName": "Robert Sterling (CEO)",
+    "senderEmail": "ceo.robert-exec@fastmail-secure.top",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Urgent Wire Transfer Assistance Needed - In a meeting",
+    "content": "Alex,\n\nI am currently tied up in an offsite board meeting with limited cell reception. We have an urgent vendor invoice that needs to be settled today before 3 PM to avoid project stoppage.\n\nPlease process an emergency wire transfer of $14,850 to the account details I will send in my next email.\n\nConfirm when you see this so I can provide the beneficiary wire details.\n\nRobert Sterling\nChief Executive Officer",
+    "date": "2026-10-02T18:40:22.648Z",
+    "isRead": false,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "CEO Fraud",
+      "Suspicious",
+      "Wire Transfer"
+    ],
+    "spamCategory": "PHISHING",
+    "spamRisk": "High Risk",
+    "spamScore": 70,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (ceo.robert-exec@fastmail-secure.top)",
+      "Solicitation for untraceable financial transactions or gift cards"
+    ],
+    "aiAnalysis": {
+      "summary": "Alex,  I am currently tied up in an offsite board meeting with limited cell reception. We have an urgent vendor invoice that needs to be settled today before 3 PM to avoid project stoppage.",
+      "mainTopic": "Meeting & Scheduling",
+      "keyPoints": [
+        "Sender: Robert Sterling (CEO)",
+        "Timeline / Deadlines mentioned: today",
+        "Subject focus: Urgent Wire Transfer Assistance Needed - In a meeting",
+        "Context: We have an urgent vendor invoice that needs to be settled today before 3 PM to avoid project stoppage."
+      ],
+      "actionItems": [
+        "Accept calendar invite and confirm attendance."
+      ],
+      "deadlines": [
+        "today"
+      ],
+      "sentiment": "High Urgency",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60007",
+    "senderName": "MegaLeads Pro",
+    "senderEmail": "promotions@megaleads-marketing.click",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "100% Free Trial: Boost your B2B sales leads by 500% with Guaranteed ROI!",
+    "content": "Hello Growth Leader,\n\nAre you tired of low conversion rates? Claim your exclusive deal today!\n\nGet 50,000 verified B2B email contacts with direct phone numbers. Risk-free guaranteed ROI or your money back! Order today and receive an extra 20% discount.\n\nAct now! Limited time offer expires at midnight.\n\nTo opt-out instructions below, click unsubscribe here.",
+    "date": "2026-10-02T10:40:22.648Z",
+    "isRead": true,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "Marketing Spam",
+      "Promotion"
+    ],
+    "spamCategory": "SPAM",
+    "spamRisk": "High Risk",
+    "spamScore": 90,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (promotions@megaleads-marketing.click)",
+      "Unrealistic marketing claims and financial hype",
+      "Aggressive marketing sales pressure",
+      "Unsolicited bulk marketing newsletter indicators"
+    ],
+    "aiAnalysis": {
+      "summary": "Hello Growth Leader,  Are you tired of low conversion rates? Claim your exclusive deal today!",
+      "mainTopic": "General Correspondence",
+      "keyPoints": [
+        "Sender: MegaLeads Pro",
+        "Timeline / Deadlines mentioned: today",
+        "Subject focus: 100% Free Trial: Boost your B2B sales leads by 500% with Guaranteed ROI!",
+        "Context: Claim your exclusive deal today!"
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [
+        "today"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60008",
+    "senderName": "Sarah Jenkins",
+    "senderEmail": "sarah.jenkins@company.io",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Sprint 24 Retrospective & Sprint 25 Planning Notes",
+    "content": "Hi Team,\n\nGreat job wrapping up Sprint 24! We achieved a 94% story point completion rate.\n\nKey takeaways from the retro:\n1. Improved backend error handling reduced ticket triage by 30%.\n2. We will start code reviews for the Intelligent Email Assistant feature this Wednesday.\n\nPlease update your Jira tickets before our Sprint 25 Kickoff on Monday at 10:00 AM.\n\nCheers,\nSarah",
+    "date": "2026-10-02T06:40:22.648Z",
+    "isRead": true,
+    "isImportant": false,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "Sprint",
+      "Engineering",
+      "Agile"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "Hi Team,  Great job wrapping up Sprint 24! We achieved a 94% story point completion rate.",
+      "mainTopic": "Project Management",
+      "keyPoints": [
+        "Sender: Sarah Jenkins",
+        "Timeline / Deadlines mentioned: 10:00 AM",
+        "Subject focus: Sprint 24 Retrospective & Sprint 25 Planning Notes",
+        "Context: We achieved a 94% story point completion rate."
+      ],
+      "actionItems": [
+        "Please update your Jira tickets before our Sprint 25 Kickoff on Monday at 10:00 AM."
+      ],
+      "deadlines": [
+        "10:00 AM"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.791Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60009",
+    "senderName": "Google Calendar",
+    "senderEmail": "calendar-notification@google.com",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Invitation: AI Security Architecture Review @ Thu Sep 4, 2026 2pm - 3pm (alex.turner@company.io)",
+    "content": "You have been invited to the following event:\n\nTitle: AI Security Architecture Review\nWhen: Thursday, Sep 4, 2026, 2:00 PM - 3:00 PM EST\nWhere: Google Meet (meet.google.com/xyz-abcd-efg)\nOrganizer: elena.rostova@acmecorp.com\n\nAgenda:\n- Threat modeling for phishing classifiers\n- Latency optimization on Express backend\n- Gmail OAuth 2.0 security best practices\n\nPlease confirm your attendance by accepting this invite.",
+    "date": "2026-10-02T00:40:22.648Z",
+    "isRead": false,
+    "isImportant": true,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "Calendar",
+      "Meeting",
+      "Security"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "You have been invited to the following event:  Title: AI Security Architecture Review When: Thursday, Sep 4, 2026, 2:00 PM - 3:00 PM EST Where: Google Meet (meet.google.com/xyz-abcd-efg) Organizer: elena.rostova@acmecorp.com  Agenda: - Threat modeling for phishing classifiers - Latency optimization on Express backend - Gmail OAuth 2.0 security best practices  Please confirm your attendance by accepting this invite.",
+      "mainTopic": "Security & Infrastructure",
+      "keyPoints": [
+        "Sender: Google Calendar",
+        "Timeline / Deadlines mentioned: Sep 4, 2026, 2:00 PM, 3:00 PM",
+        "Subject focus: Invitation: AI Security Architecture Review @ Thu Sep 4, 2026 2pm - 3pm (alex.turner@company.io)"
+      ],
+      "actionItems": [
+        "You have been invited to the following event:  Title: AI Security Architecture Review When: Thursday, Sep 4, 2026, 2:00 PM - 3:00 PM EST Where: Google Meet (meet.google.com/xyz-abcd-efg) Organizer: elena.rostova@acmecorp.com  Agenda: - Threat modeling for phishing classifiers - Latency optimization on Express backend - Gmail OAuth 2.0 security best practices  Please confirm your attendance by accepting this invite."
+      ],
+      "deadlines": [
+        "Sep 4, 2026",
+        "2:00 PM",
+        "3:00 PM"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.792Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60010",
+    "senderName": "Internal Revenue Service (IRS)",
+    "senderEmail": "tax-notice@irs-gov-refund.xyz",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "IRS Refund Notice: You have an unclaimed federal tax rebate of $1,842.00",
+    "content": "Official Notification from the Internal Revenue Service,\n\nOur records indicate that you are eligible for an unclaimed tax refund payment of $1,842.00 for the fiscal year.\n\nTo claim your refund, submit your Social Security Number (SSN), banking routing details, and home address via the secure IRS direct deposit portal below:\n\nhttp://irs-tax-direct-deposit.top/claim\n\nFailure to submit within 72 hours will forfeit your tax credit.\n\nIRS Automated Tax Filing Center",
+    "date": "2026-10-01T18:00:22.648Z",
+    "isRead": true,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "IRS Scam",
+      "Phishing",
+      "Identity Theft"
+    ],
+    "spamCategory": "PHISHING",
+    "spamRisk": "High Risk",
+    "spamScore": 95,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (tax-notice@irs-gov-refund.xyz)",
+      "High-yield fraudulent financial bait (tax/lottery/prize)",
+      "Contains unverified or obfuscated web link(s): http://irs-tax-direct-deposit.top/claim"
+    ],
+    "aiAnalysis": {
+      "summary": "Official Notification from the Internal Revenue Service,  Our records indicate that you are eligible for an unclaimed tax refund payment of $1,842.00 for the fiscal year. To claim your refund, submit your Social Security Number (SSN), banking routing details, and home address via the secure IRS direct deposit portal below:  http://irs-tax-direct-deposit.top/claim  Failure to submit within 72 hours will forfeit your tax credit.",
+      "mainTopic": "General Correspondence",
+      "keyPoints": [
+        "Sender: Internal Revenue Service (IRS)",
+        "Subject focus: IRS Refund Notice: You have an unclaimed federal tax rebate of $1,842.00",
+        "Context: To claim your refund, submit your Social Security Number (SSN), banking routing details, and home address via the secure IRS direct deposit portal below:  http://irs-tax-direct-deposit.top/claim  Failure to submit within 72 hours will forfeit your tax credit."
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.792Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60011",
+    "senderName": "GitHub Dependabot",
+    "senderEmail": "notifications@github.com",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "[Security Advisory] Moderate severity vulnerability found in Express ecosystem dependency",
+    "content": "Dependabot detected 1 moderate severity security vulnerability in repository alex-turner/intelligent-email-assistant.\n\nVulnerability: ReDoS in path parser\nRecommended Action: Upgrade package to version 4.21.2 or higher.\n\nA pull request has been automatically created with the necessary package.json changes for your review.\n\nView details on GitHub Security Advisories.",
+    "date": "2026-10-01T08:00:22.648Z",
+    "isRead": false,
+    "isImportant": true,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "GitHub",
+      "Security",
+      "DevOps"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "Dependabot detected 1 moderate severity security vulnerability in repository alex-turner/intelligent-email-assistant. Vulnerability: ReDoS in path parser Recommended Action: Upgrade package to version 4.21.2 or higher.",
+      "mainTopic": "Security & Infrastructure",
+      "keyPoints": [
+        "Sender: GitHub Dependabot",
+        "Subject focus: [Security Advisory] Moderate severity vulnerability found in Express ecosystem dependency",
+        "Context: Vulnerability: ReDoS in path parser Recommended Action: Upgrade package to version 4.21.2 or higher."
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.792Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60012",
+    "senderName": "LinkedIn Network Team",
+    "senderEmail": "alerts@linkedin-network-updates.stream",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Your profile appeared in 42 searches this week + Security Check",
+    "content": "Hi Alex,\n\n42 recruiters searched for your profile this week at Top Tier Tech companies.\n\nAlso, we noticed a new device logged into your profile from an unrecognized browser. Please review your account settings and update your security questions.\n\nVisit: http://linkedin-career-profile.stream/verify-login\n\nThanks,\nThe LinkedIn Team",
+    "date": "2026-09-30T20:20:22.648Z",
+    "isRead": true,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "Suspicious Link",
+      "Social Media"
+    ],
+    "spamCategory": "SPAM",
+    "spamRisk": "High Risk",
+    "spamScore": 70,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (alerts@linkedin-network-updates.stream)",
+      "Contains unverified or obfuscated web link(s): http://linkedin-career-profile.stream/verify-login"
+    ],
+    "aiAnalysis": {
+      "summary": "Hi Alex,  42 recruiters searched for your profile this week at Top Tier Tech companies. Also, we noticed a new device logged into your profile from an unrecognized browser.",
+      "mainTopic": "Security & Infrastructure",
+      "keyPoints": [
+        "Sender: LinkedIn Network Team",
+        "Subject focus: Your profile appeared in 42 searches this week + Security Check",
+        "Context: Also, we noticed a new device logged into your profile from an unrecognized browser."
+      ],
+      "actionItems": [
+        "Please review your account settings and update your security questions."
+      ],
+      "deadlines": [],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.792Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60013",
+    "senderName": "Marcus Vance",
+    "senderEmail": "marcus.vance@enterprise-client.com",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "Feedback on Intelligent Email Assistant Beta Demo & Next Steps",
+    "content": "Hi Alex,\n\nOur executive team trialed the Intelligent Email Assistant preview yesterday, and the reception was overwhelmingly positive!\n\nThe automated spam analysis and multi-tone AI reply suggestions saved our compliance officers hours of triage.\n\nWe would like to schedule a follow-up demo next Tuesday at 3:00 PM EST to discuss enterprise rollout, custom spam heuristic rules, and volume licensing.\n\nBest regards,\nMarcus Vance\nHead of Enterprise Systems",
+    "date": "2026-09-30T08:40:22.648Z",
+    "isRead": true,
+    "isImportant": true,
+    "isSpam": false,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "inbox",
+    "tags": [
+      "Customer Feedback",
+      "Enterprise",
+      "Sales"
+    ],
+    "spamCategory": "SAFE",
+    "spamRisk": "Low Risk",
+    "spamScore": 5,
+    "spamReason": [
+      "Verified sender structure and normal business communication patterns.",
+      "No malicious links, credential requests, or deceptive urgency detected."
+    ],
+    "aiAnalysis": {
+      "summary": "Hi Alex,  Our executive team trialed the Intelligent Email Assistant preview yesterday, and the reception was overwhelmingly positive! The automated spam analysis and multi-tone AI reply suggestions saved our compliance officers hours of triage.",
+      "mainTopic": "General Correspondence",
+      "keyPoints": [
+        "Sender: Marcus Vance",
+        "Timeline / Deadlines mentioned: next Tuesday, 3:00 PM",
+        "Subject focus: Feedback on Intelligent Email Assistant Beta Demo & Next Steps",
+        "Context: The automated spam analysis and multi-tone AI reply suggestions saved our compliance officers hours of triage."
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [
+        "next Tuesday",
+        "3:00 PM"
+      ],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.792Z"
+    }
+  },
+  {
+    "_id": "65e1f001a1b2c3d4e5f60014",
+    "senderName": "Golden Casino Club",
+    "senderEmail": "jackpot@casinoking-rewards.top",
+    "recipientEmail": "alex.turner@company.io",
+    "subject": "CONGRATULATIONS! You have won $5,000 Bonus Spins and Casino Cash",
+    "content": "Claim your $5,000 VIP welcome package right now!\n\nNo deposit required. 100% free bonus spins on all jackpot slots. Earn cash payouts instantly to your card.\n\nClick here to claim your prize bonus: http://casinoking-rewards.top/claim-spins\n\nTerms and conditions apply. Unsubscribe here.",
+    "date": "2026-09-29T19:20:22.648Z",
+    "isRead": false,
+    "isImportant": false,
+    "isSpam": true,
+    "isArchived": false,
+    "isDeleted": false,
+    "folder": "spam",
+    "tags": [
+      "Lottery Spam",
+      "Casino"
+    ],
+    "spamCategory": "PHISHING",
+    "spamRisk": "High Risk",
+    "spamScore": 99,
+    "spamReason": [
+      "Suspicious / spoofed sender domain format (jackpot@casinoking-rewards.top)",
+      "Deceptive call-to-action redirecting to credential harvesting page",
+      "High-yield fraudulent financial bait (tax/lottery/prize)",
+      "Unrealistic marketing claims and financial hype",
+      "Common commercial spam promotional keywords",
+      "Unsolicited bulk marketing newsletter indicators",
+      "Contains unverified or obfuscated web link(s): http://casinoking-rewards.top/claim-spins"
+    ],
+    "aiAnalysis": {
+      "summary": "Claim your $5,000 VIP welcome package right now! No deposit required.",
+      "mainTopic": "General Correspondence",
+      "keyPoints": [
+        "Sender: Golden Casino Club",
+        "Subject focus: CONGRATULATIONS! You have won $5,000 Bonus Spins and Casino Cash",
+        "Context: No deposit required."
+      ],
+      "actionItems": [
+        "Acknowledge receipt and follow up with requested status."
+      ],
+      "deadlines": [],
+      "sentiment": "Neutral / Productive",
+      "analyzedAt": "2026-10-03T07:16:25.792Z"
+    }
+  }
+]
